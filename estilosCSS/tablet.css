@@ -1,0 +1,32 @@
+.plans-container .container--slider
+{
+    justify-content: space-evenly;
+}
+
+.product-cards--container
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.product-cards--container .product-detail--card
+{
+    width: 45%;
+}
+
+footer .left ul
+{
+    font-size: 1.4rem;
+}
+
+.bitcoin-img-container
+{
+    background-image: url('../assets/imgs/bitcoinbaby2x.jpg');
+}
+
+.bitcoin-img-container h2
+{
+    font-size: 5rem;
+}
